@@ -4,7 +4,7 @@ This repository provides a comprehensive example of how to integrate the **Playg
 
 ## What is Playgama Bridge?
 
-**Playgama Bridge** is a unified Software Development Kit (SDK) that allows HTML5 game developers to integrate their games with multiple distribution platforms using a single, streamlined process. By integrating Playgama Bridge, developers can reach a massive audience of over 300 million monthly active users across various platforms without the need to manage multiple SDKs and APIs.
+**Playgama Bridge** is a unified Software Development Kit (SDK) that allows HTML5 game developers to integrate their games with multiple distribution platforms using a single, streamlined process. By integrating Playgama Bridge, developers can tap into Playgama's 450M+ monthly network reach across various platforms without the need to manage multiple SDKs and APIs.
 
 ### Key Benefits of Playgama Bridge:
 
